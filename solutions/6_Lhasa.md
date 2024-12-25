@@ -6,8 +6,6 @@ Find the average (more precisely; the arithmetic mean: sum of numbers divided by
 
 Use exactly two digits to the right of the decimal point. i. e., use exaclty two "decimal digits" without any rounding. Eg: if average = 21.349 , the solution is 21.34. If average = 33.1 , the solution is 33.10.
 
-Save the solution in the /home/admin/solution file, for example: echo "123.45" > ~/solution
-
 Tip: There's bc, Python3, Golang and sqlite3 installed in this VM.
 
 ```bash
@@ -19,7 +17,7 @@ do
 done
 COUNT=$(wc -l scores.txt | cut -d " " -f 1)
 MEAN=$(echo "scale=2; $SUMM / $COUNT" | bc)
-echo $MEAN
+echo $MEAN > ~/solution 
 ```
 
 
