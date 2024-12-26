@@ -9,3 +9,4 @@ My solutions to SadServers challenges with some commentary.
 - [x] ["The Command Line Murders"](solutions/4_The_Command_Line_Murders.md)
 - [x] ["Taipei": Come a-knocking](solutions/5_Taipei.md)
 - [ ] ["Resumable Server": Linux Upskill Challenge](solutions/5_Resumable_Server.md)
+- [x] ["Lhasa": Easy Math](solutions/6_Lhasa.md)
