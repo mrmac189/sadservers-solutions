@@ -11,3 +11,4 @@ My solutions to SadServers challenges with some commentary.
 - [ ] ["Resumable Server": Linux Upskill Challenge](solutions/5_Resumable_Server.md)
 - [x] ["Lhasa": Easy Math](solutions/6_Lhasa.md)
 - [x] ["Bucharest": Connecting to Postgres](solutions/7_Bucharest.md)
+- [x] ["Bilbao": Basic Kubernetes Problems](solutions/8_Bilbao.md)
