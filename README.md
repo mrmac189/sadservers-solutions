@@ -18,6 +18,6 @@ My solutions to SadServers challenges with some commentary.
 - [x] ["Minneapolis": Break a CSV file](solutions/11_Minneapolis.md)
 - [x] ["Saint Paul": Merge Many CSVs files](solutions/12_Saint_Paul.md)
 - [x] ["Bata": Find in /proc](solutions/13_Bata.md)
-- [ ] ["Geneva": Renew an SSL Certificate](solutions/14_Geneva.md)
+- [x] ["Geneva": Renew an SSL Certificate](solutions/14_Geneva.md)
 - [ ] [Linux Server Review - Guided Learning](solutions/15_LinuxServerReview.md)
 ### Medium
