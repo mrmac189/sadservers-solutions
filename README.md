@@ -19,5 +19,5 @@ My solutions to SadServers challenges with some commentary.
 - [x] ["Saint Paul": Merge Many CSVs files](solutions/12_Saint_Paul.md)
 - [x] ["Bata": Find in /proc](solutions/13_Bata.md)
 - [x] ["Geneva": Renew an SSL Certificate](solutions/14_Geneva.md)
-- [ ] [Linux Server Review - Guided Learning](solutions/15_LinuxServerReview.md)
+- [x] [Linux Server Review - Guided Learning](solutions/15_Linux_Server_Review.md)
 ### Medium
