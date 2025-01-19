@@ -21,3 +21,8 @@ My solutions to SadServers challenges with some commentary.
 - [x] ["Geneva": Renew an SSL Certificate](solutions/14_Geneva.md)
 - [x] [Linux Server Review - Guided Learning](solutions/15_Linux_Server_Review.md)
 ### Medium
+- [x] ["Manhattan": can't write data into database](solutions/16_Manhattan.md)
+- [x] ["Tokyo": can't serve web file](solutions/17_Tokyo.md)
+- [ ] ["Cape Town": Borked Nginx](solutions/18_Cape_Town.md)
+- [ ] ["Salta": Docker container won't start](solutions/19_Salta.md)
+- [ ] ["Venice": Am I in a container?](solutions/20_Venice.md)
