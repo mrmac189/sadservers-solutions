@@ -20,6 +20,7 @@ My solutions to SadServers challenges with some commentary.
 - [x] ["Bata": Find in /proc](solutions/13_Bata.md)
 - [x] ["Geneva": Renew an SSL Certificate](solutions/14_Geneva.md)
 - [x] [Linux Server Review - Guided Learning](solutions/15_Linux_Server_Review.md)
+- [x] ["Tokamachi": Troubleshooting a Named Pipe](solutions/Tokamachi.md)
 ### Medium
 - [x] ["Manhattan": can't write data into database](solutions/16_Manhattan.md)
 - [x] ["Tokyo": can't serve web file](solutions/17_Tokyo.md)
